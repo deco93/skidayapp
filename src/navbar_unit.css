@@ -1,0 +1,19 @@
+.container{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: rgba(0,0,0,.52);
+    border-radius: 5px;
+    box-shadow: 0 0 5px 10px rgb(124, 124, 124),0 0 5px 11px #fff;
+}
+
+/*
+.navbar{
+    width: 90%;
+    display: block;
+    overflow: hidden;
+}
+
+.navbar> a{
+
+}*/
