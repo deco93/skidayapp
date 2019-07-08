@@ -23,6 +23,19 @@
   color: #61dafb;
 }
 
+.table_rows {
+  background-color: rgba(0,0,0,.34);
+}
+
+table {
+  box-shadow: 0 0 5px 5px darkcyan;
+  width: 90%;
+  margin: 0 auto;
+  margin-top: 15%;
+  margin-bottom: 5%;
+  top: 150px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

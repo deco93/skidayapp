@@ -1,3 +1,4 @@
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+Summary:
+Has content for react router concepts including:- 
+1. Setting up routes inside BrowserRouter using Route.
+2. Resolving route conflict using exact path.
+3. Removing reload of same base html file repeatedly using Link,NavLink.
+4. Route redirection using push() method of the history attribute in props provided to Route components.
+5. Also route redirection for those components not part of route in BrowserRoute using withRouter Higher Order Component(HOC).
+6. Also to restrict conflict between normal route and route param defined in Route using Switch.
+7. HOC custom definition by wrapping supplied component insisde custom HOC created using stateless functional component.
